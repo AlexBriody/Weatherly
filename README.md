@@ -33,6 +33,6 @@ We referenced the following resources for this project:
 
 ## License
 
-&copy; Maura, Alex, Cat, Ky, Alissa
+&copy; Maura, Alexander, Cat, Ky, Alissa
 
 
